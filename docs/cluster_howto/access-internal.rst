@@ -32,6 +32,10 @@ Screenshots of the four steps are shown below:
    .. figure:: figures/putty_login_success.png
       :figwidth: 60%
 
+MACOSX users may use the MacOSX built-in terminal to start a TigerVNC session: 
+e.g. 'ssh -L honlee@menat002.dccn.nl'
+
+
 SSH logout
 ==========
 
